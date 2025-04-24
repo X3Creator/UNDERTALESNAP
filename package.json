@@ -1,0 +1,21 @@
+{
+  "name": "undertalesnap",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "X3",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^35.1.5"
+  }
+}
